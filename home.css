@@ -1,0 +1,26 @@
+body{
+    background: linear-gradient(#4a7ddd, #9198e5);
+}
+
+button{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 174, 0);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+   
+   width: 135px;
+   height: 50px;
+   font-size: 30px;
+}
+
+a{
+    margin-left: 85%;
+}
+
+.button{
+    display: flex;
+    align-items: center;
+
+
+}
